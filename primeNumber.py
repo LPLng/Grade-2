@@ -26,4 +26,4 @@ for i in range(2,1001):
     if count==i-2:
         arr.append(i);
 endTime=time.time()
-print("正常方法的时间是",endTime-startTime)
+print("弱智方法的时间是",endTime-startTime)
